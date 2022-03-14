@@ -19,6 +19,7 @@ public class EmployeeDetails {
 	private void employeeId() {
 		
 		System.out.println("Employee Id : 2888");
+		System.out.println("Empolyee Id : 1234");
 	
 		
 	}
