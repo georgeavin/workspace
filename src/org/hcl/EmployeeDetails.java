@@ -23,7 +23,9 @@ public class EmployeeDetails {
 	
 		
 	}
-	
+	private void empAdd() {
+		System.out.println("Employee Add : OMR");
+	}
 	//Main method creation
 	//main ctrl+space, enter
 	
